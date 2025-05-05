@@ -8,6 +8,6 @@ export class AppService {
     console.error('error!');
     console.warn('warn!');
     //console.info('info!');
-    return                                 'Hello World!!';
+    return 'Hello World!!';
   }
 }
